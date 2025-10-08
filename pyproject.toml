@@ -1,0 +1,16 @@
+[project]
+name = "author-infer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fugashi>=1.5.1",
+    "ipadic>=1.0.0",
+    "ipykernel>=6.30.1",
+    "numpy>=2.3.3",
+    "pandas>=2.3.2",
+    "scikit-learn>=1.7.2",
+    "tqdm>=4.67.1",
+    "scipy>=1.11.0",
+]

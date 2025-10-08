@@ -1,0 +1,7 @@
+pandas
+fugashi
+sklearn
+numpy
+ipadic
+tqdm
+ipykernel
