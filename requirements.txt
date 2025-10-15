@@ -6,3 +6,5 @@ ipadic
 tqdm
 ipykernel
 statsmodels
+matplotlib
+seaborn
